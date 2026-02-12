@@ -1,12 +1,10 @@
 ---
 name: data-driven-decision-culture
-description: Design organizational systems where data beats opinion - implement transparency,
-  OKRs, and decision-making frameworks that empower anyone with data to challenge
-  anyone with authority.
+description: Design organizational systems where data beats opinion - implement transparency, OKRs, and decision-making frameworks that empower anyone with data to challenge anyone with authority.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - data-driven-decision-culture
 - transformation
